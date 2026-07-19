@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.4.2",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.4.2/ironset-0.4.2.apk",
-  "sha256": "fdbe257d6934b8113f8edee90c90855b947aa6418a6e240d377c047ddae1462e",
-  "size": 116557252,
-  "publishedAt": "2026-07-18T13:33:48Z",
-  "releaseNotes": "IronSet 0.4.2 — initial public Android release"
+  "versionName": "0.4.3",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.4.3/ironset-0.4.3.apk",
+  "sha256": "a6f45a2b103f4f466a8459d8dad7f4032f7b205c56a68e954ee27f4ff12442e1",
+  "size": 116557208,
+  "publishedAt": "2026-07-19T19:02:08Z",
+  "releaseNotes": "IronSet 0.4.3\nSubtle card separation without changing the established palette.\nCompact always-visible application update action in Settings.\nFresh English light and dark release screenshots."
 }
