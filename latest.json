@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.4.3",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.4.3/ironset-0.4.3.apk",
-  "sha256": "a6f45a2b103f4f466a8459d8dad7f4032f7b205c56a68e954ee27f4ff12442e1",
-  "size": 116557208,
-  "publishedAt": "2026-07-19T19:02:08Z",
-  "releaseNotes": "IronSet 0.4.3\nSubtle card separation without changing the established palette.\nCompact always-visible application update action in Settings.\nFresh English light and dark release screenshots."
+  "versionName": "0.5.0",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.5.0/ironset-0.5.0.apk",
+  "sha256": "504e367ec0d4bbab74bdab1c9cd06703f500a97cad266adf75d1eceb0c57c8c0",
+  "size": 117398623,
+  "publishedAt": "2026-07-29T06:01:26Z",
+  "releaseNotes": "IronSet 0.5.0\nUnified user-data actions in Settings.\nImproved workout dialogs and equipment input ergonomics.\nLower-overhead active-workout timers and visibility-aware scheduling.\nNative IronSet startup branding with automatic light/dark theme.\nHardened local-build-to-GitHub release publication flow."
 }
