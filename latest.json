@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.6.3",
-  "versionCode": 28,
-  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.6.3/ironset-0.6.3.apk",
-  "sha256": "9044228d724f94322136de53d0fddc02c056a3082a0d0bc5dc9b6e26e15d1d78",
-  "size": 119017373,
-  "publishedAt": "2026-08-24T05:24:28Z",
-  "releaseNotes": "IronSet 0.6.3\nИсправлено суммирование данных при группировке графиков по неделям и месяцам.\nИсправлена календарная группировка тренировок с ISO-временем на границах месяца."
+  "versionName": "0.7.0",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.7.0/ironset-0.7.0.apk",
+  "sha256": "74d1ade9534e387acded737c87b38d70955c1c27f7f5836c077c701daa08444b",
+  "size": 119164942,
+  "publishedAt": "2026-09-01T14:29:38Z",
+  "releaseNotes": "IronSet 0.7.0"
 }
