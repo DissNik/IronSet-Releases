@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.7.1",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.7.1/ironset-0.7.1.apk",
-  "sha256": "037ddd30c26fb6805ee0de7ac53e25a1e2ea53ac90a902989c55e94b4018c4e6",
-  "size": 119164942,
-  "publishedAt": "2026-09-02T11:08:05Z",
-  "releaseNotes": "IronSet 0.7.1"
+  "versionName": "0.7.2",
+  "versionCode": 31,
+  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.7.2/ironset-0.7.2.apk",
+  "sha256": "d4e7bd2e627ef2ad30250c937b43b31fb5f36bfa1e5d7c3a4830f6ade8dcb41f",
+  "size": 119169038,
+  "publishedAt": "2026-09-03T09:29:27Z",
+  "releaseNotes": "IronSet 0.7.2"
 }
