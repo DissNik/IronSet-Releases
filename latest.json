@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.7.2",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.7.2/ironset-0.7.2.apk",
-  "sha256": "d4e7bd2e627ef2ad30250c937b43b31fb5f36bfa1e5d7c3a4830f6ade8dcb41f",
+  "versionName": "0.7.3",
+  "versionCode": 32,
+  "apkUrl": "https://github.com/DissNik/IronSet-Releases/releases/download/v0.7.3/ironset-0.7.3.apk",
+  "sha256": "fb6d4498345d9222eb0b617bef1c0e9ff9bb0f4e57926321c441b4930edf91ee",
   "size": 119169038,
-  "publishedAt": "2026-09-03T09:29:27Z",
-  "releaseNotes": "IronSet 0.7.2"
+  "publishedAt": "2026-09-04T05:27:57Z",
+  "releaseNotes": "IronSet 0.7.3\nИсправлено перекрытие нижних панелей системными кнопками навигации Android.\nРедакторы снарядов, упражнений и тренировок, выбор веса и времени, история и настройки учитывают нижний системный отступ.\nПанель управления тренировкой также учитывает системную навигацию."
 }
