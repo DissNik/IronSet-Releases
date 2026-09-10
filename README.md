@@ -17,6 +17,8 @@ stays on your device and remains available even when you are offline.
   and move to the next exercise without losing your flow.
 - **Work with the equipment you have.** Save your dumbbells, kettlebells,
   barbells, and plates to choose realistic weights and progress gradually.
+  Choose one or two pieces of compatible equipment per exercise; the quantity
+  is preserved in your training history and included in load charts.
 - **See your progress.** Workout history, training logs, and load charts make
   consistency and improvements easy to follow.
 - **Stay in control of your data.** Export a backup and restore your workouts,
