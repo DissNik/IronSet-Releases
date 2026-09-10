@@ -11,8 +11,8 @@ stays on your device and remains available even when you are offline.
 
 ## What IronSet can do
 
-- **Plan your workouts.** Add exercises, sets, rep ranges, working weights, and
-  rest times.
+- **Plan your workouts.** Add exercises, rep ranges, and rest times. Set the
+  reps and weight for each set, or use timed holds and stopwatch exercises.
 - **Stay focused while training.** Mark completed sets, follow the rest timer,
   and move to the next exercise without losing your flow.
 - **Work with the equipment you have.** Save your dumbbells, kettlebells,
@@ -27,6 +27,9 @@ stays on your device and remains available even when you are offline.
   themes, and install optional updates directly from the app.
 
 ## See IronSet in action
+
+Captured from the Android app in English with sample workouts and training
+history. The gallery follows your light or dark theme.
 
 <table>
   <tr>
